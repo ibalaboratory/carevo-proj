@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d82afc26a8f69ed44b1b8846ab3a90e3, type: 3}
+  m_Name: CarGeneOperator
+  m_EditorClassIdentifier: 
+  PosProb: 0.5
+  RadiusProb: 0.5
+  RadiusMutationSize: 1
+  AngleProb: 0.5
+  AngleMutationSize: 1
+  WheelSizeProb: 0.5
+  WheelSizeMutationSize: 1
+  TorqueProb: 0.5
+  TorqueMutationSize: 1
